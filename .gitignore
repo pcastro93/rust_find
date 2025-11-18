@@ -1,0 +1,13 @@
+# Ignored folders
+/target
+
+# File Managers
+.DS_Store
+Thumbs.db
+.directory
+
+# IDE's
+.vscode/
+.idea/
+*.swp
+*.swo
